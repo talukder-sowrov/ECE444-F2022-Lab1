@@ -19,3 +19,9 @@ https://github.com/SRKX0A/ECE444-F2022-Lab1
 ![image](https://user-images.githubusercontent.com/42917737/190875308-55592805-1c1f-488c-b1f7-dec4902ac19f.png)
 
 ![image](https://user-images.githubusercontent.com/42917737/190875322-44bc4c04-1725-4976-8286-4105dc7075ff.png)
+
+Activity 5:
+
+![image](https://user-images.githubusercontent.com/42917737/190876884-ab404199-a3c0-4e11-a0c6-ea77cc5c7966.png)
+
+![image](https://user-images.githubusercontent.com/42917737/190876960-b5b8d4b5-d3ac-4181-98f7-752c65f4e864.png)
