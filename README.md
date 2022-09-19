@@ -35,3 +35,10 @@ Activity 7:
 ![image](https://user-images.githubusercontent.com/42917737/191070582-3ab4a6df-39c4-405b-8df7-7d5c05acd1ed.png)
 
 ![image](https://user-images.githubusercontent.com/42917737/191070668-04045c14-2406-488a-9261-8898ff98e522.png)
+
+Activity 8:
+
+![image](https://user-images.githubusercontent.com/42917737/191074214-373e8a0a-2c8b-409a-a3eb-2d6719f48c5b.png)
+
+![image](https://user-images.githubusercontent.com/42917737/191074269-52d10d47-bc9b-4e89-8fa0-7df9f94db2dc.png)
+
