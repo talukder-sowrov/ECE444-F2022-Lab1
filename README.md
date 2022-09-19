@@ -29,3 +29,9 @@ Activity 5:
 Activity 6:
 
 https://github.com/talukder-sowrov/ECE444-F2022-EP
+
+Activity 7:
+
+![image](https://user-images.githubusercontent.com/42917737/191070582-3ab4a6df-39c4-405b-8df7-7d5c05acd1ed.png)
+
+![image](https://user-images.githubusercontent.com/42917737/191070668-04045c14-2406-488a-9261-8898ff98e522.png)
